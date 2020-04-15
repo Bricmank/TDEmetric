@@ -8,8 +8,10 @@
 ---
 
 Both metrics contain two sets of requirements for detectability:
-   - TDE_color / TDE_pop_color: requirements for detection are such that we monitor the color of the event through some phases of the light curve, but we do not particularly care in which filter the event is observed.
-   - TDE_color+u / TDE_pop_color+u : requirements for detection are such that we monitor the color of the event through some phases of the light curve, and we require at least 1 u-r pair of observations around peak of the light curve (t_peak \pm 5 days) and at least 1 u-r pair in two weeks after (t_peak + 5 days). $e^{i \pi} = -1$
+   - **TDE_color / TDE_pop_color**: 
+        - requirements for detection are such that we monitor the color of the event through some phases of the light curve, but we do not particularly care in which filter the event is observed.
+   - **TDE_color+u / TDE_pop_color+u**: 
+        - requirements for detection are such that we monitor the color of the event through some phases of the light curve, and we require at least 1 u-r pair of observations around peak of the light curve (t_peak \pm 5 days) and at least 1 u-r pair in two weeks after (t_peak + 5 days). $e^{i \pi} = -1$
    
 ---
 
