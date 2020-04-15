@@ -1,4 +1,4 @@
-# TDEmetric
+# MAF metrics for TDEs
 
 
 **TDEmetric** finds the detectabilty of one fast and faint event (TDEfaintfast_z0.1.dat) for a given opsim.
